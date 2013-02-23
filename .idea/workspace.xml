@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a797848d-3420-43f9-b8d7-90866e202f01" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.custom.css.swp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
     </list>
     <ignored path="givechange.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,19 +22,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="141" selection-start="1036" selection-end="1036" vertical-scroll-proportion="0.3360996">
+            <state line="7" column="178" selection-start="211" selection-end="211" vertical-scroll-proportion="-4.48">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="152" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
+            <state line="80" column="0" selection-start="1307" selection-end="1307" vertical-scroll-proportion="0.64408493">
               <folding />
             </state>
           </provider>
@@ -47,8 +48,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -218,16 +219,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="152" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
+        <state line="7" column="178" selection-start="211" selection-end="211" vertical-scroll-proportion="-4.48">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="141" selection-start="1036" selection-end="1036" vertical-scroll-proportion="0.3360996">
+        <state line="80" column="0" selection-start="1307" selection-end="1307" vertical-scroll-proportion="0.64408493">
           <folding />
         </state>
       </provider>

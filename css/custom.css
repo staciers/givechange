@@ -54,3 +54,53 @@ input#search-box {
     margin-top: 25px;
 }
 
+/************** FOOTER ****************/
+footer {
+    margin-top: 20px;
+    padding: 40px 0px 40px 0px;
+}
+
+footer h3 {
+    padding: 2px 0px !important;
+    margin-bottom: 10px;
+}
+
+#footer-social {
+    text-align: center;
+}
+
+.social {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.clear {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+/*************** LINK CLASSES *****************/
+
+
+a.fp-box:link {
+    text-decoration: none;
+    color: #666;
+}
+
+a.fp-box:visited {
+    text-decoration: none;
+    color: #666;
+}
+
+a.fp-box:hover {
+    text-decoration: underline;
+    color: #666;
+}
+
+a.fp-box:active {
+    text-underline: none;
+    color: #666;
+}
+
+
