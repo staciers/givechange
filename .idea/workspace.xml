@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a797848d-3420-43f9-b8d7-90866e202f01" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
     </list>
     <ignored path="givechange.iws" />
@@ -25,7 +24,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="178" selection-start="211" selection-end="211" vertical-scroll-proportion="-4.48">
+            <state line="35" column="69" selection-start="1243" selection-end="1243" vertical-scroll-proportion="-22.4">
               <folding />
             </state>
           </provider>
@@ -34,7 +33,7 @@
       <file leaf-file-name="custom.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="0" selection-start="1307" selection-end="1307" vertical-scroll-proportion="0.64408493">
+            <state line="11" column="17" selection-start="161" selection-end="161" vertical-scroll-proportion="0.17795753">
               <folding />
             </state>
           </provider>
@@ -221,14 +220,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="178" selection-start="211" selection-end="211" vertical-scroll-proportion="-4.48">
+        <state line="35" column="69" selection-start="1243" selection-end="1243" vertical-scroll-proportion="-22.4">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="0" selection-start="1307" selection-end="1307" vertical-scroll-proportion="0.64408493">
+        <state line="11" column="17" selection-start="161" selection-end="161" vertical-scroll-proportion="0.17795753">
           <folding />
         </state>
       </provider>
