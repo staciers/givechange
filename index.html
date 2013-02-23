@@ -1,1 +1,64 @@
-Hello, worlds
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>GiveChange</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/custom.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="row">
+            <div class="logo span3"><a href="/" title="GiveChange">GiveChange</a></div>
+            <div class="span9">
+              <div class="navbar">
+                <ul class="nav">
+                  <li><a class="nav-link" href="#">Give</a></li>
+                  <li><a class="nav-link" href="#">My Orgs</a></li>
+                  <li><a class="nav-link" href="#">Profile</a></li>
+                  </li>
+                  <li><input id="search-box" type="text" value="search"></input></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </header>
+        <p>This is the content.</p>
+        <footer>
+          <div class="container">
+            <div class="row">
+              <div class="span3">
+                <h3>GiveChange</h3>
+                <p>Email: <a href="">awesome@example.com</a></p>
+                <p>Web: http://www.example.com</p>
+              </div>
+              <div class="span3">
+                <h3 id="footer-social">Follow Us</h3>
+                <div class="row social">
+                  <img src="img/fb.png" alt="Facebook" height="40px" width="40px">
+                </div>
+                <div class="row social">
+                  <img src="img/twitter.png" alt="Twitter" height="40px" width="40xp">
+                </div>
+              </div>
+              <div class="span6">
+                <h3>Contact Us</h3>
+                <div id="footer-form-wrapper">
+                  <form id="footer-contact-form" class="form-inline" action="contact.php" method="post">
+                    <input type="text" id="name" class="input-medium" name="name" placeholder="Name">
+                    <input type="text" id="email" class="input-long" name="email" placeholder="Email">
+                    <div class="clear"></div>
+                    <textarea id="msg" name="msg" cols="45" placeholder="Message . . ."></textarea>
+                    <div class="clear"></div>
+                    <input type="submit" class="btn btn-large btn-primary" value="Submit">
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </footer>
+    </div> <!-- closes container div -->
+  </body>
+</html>
