@@ -1,7 +1,21 @@
+body {
+  background: url(/img/bggivechange.gif);
+  color: #666;
+
+}
+
 .container {
   width: 960px;
-  margin: auto;
-  boackground-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFFFF;
+  padding: 5px 10px 5px 10px;
+  box-shadow: 0px 1px 1px
+    rgba(0, 0, 0, .35);
+  -webkit-box-shadow: 0px 1px 1px
+    rgba(0, 0, 0, .35);
+  -moz-box-shadow: 0px 1px 1px
+    rgba(0, 0, 0, .35);
 }
 
 
@@ -9,12 +23,11 @@
 
 header {
     margin-top: 30px;
+    margin-bottom: 10px;
     height: 80px;
     position: relative;
-    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35), 0px -1px 1px rgba(0, 0, 0, 0.15);
-    -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35), 0px -1px 1px rgba(0, 0, 0, 0.15);
-    -moz-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.35), 0px -1px 1px rgba(0, 0, 0, 0.15);
 }
+
 
 div.logo a {
   color: #DDD;
@@ -54,10 +67,37 @@ input#search-box {
     margin-top: 25px;
 }
 
+/*************** FRONT PAGE ************/
+div.fp-container {
+  padding-top: 40px;
+}
+
+div#fp-form-wrapper {
+    padding-top: 10px;
+}
+
+div.box4-text {
+    padding: 5px 15px 5px 15px;
+    margin: 0px;
+}
+
+div.project-box {
+    padding-left: 85px;
+    padding-right: 85px;
+
+}
+
+div.box3 {
+    margin-left: 25px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+
 /************** FOOTER ****************/
 footer {
-    margin-top: 20px;
-    padding: 40px 0px 40px 0px;
+    margin-top: 5px;
+    padding: 5px 0px 10px 0px;
 }
 
 footer h3 {
@@ -104,3 +144,7 @@ a.fp-box:active {
 }
 
 
+/************** FONTS *********************/
+h3 {
+    color: #545454;
+}
