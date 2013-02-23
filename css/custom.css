@@ -94,6 +94,17 @@ div.box3 {
 }
 
 
+/*************** FEED ******************/
+
+table.feed th {
+    text-align: left;
+}
+
+table.feed td {
+    text-align: right;
+
+}
+
 /************** FOOTER ****************/
 footer {
     margin-top: 5px;
