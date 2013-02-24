@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a797848d-3420-43f9-b8d7-90866e202f01" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing.html" afterPath="$PROJECT_DIR$/landing.html" />
     </list>
     <ignored path="givechange.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="40" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.082987554">
+            <state line="79" column="164" selection-start="3418" selection-end="3418" vertical-scroll-proportion="0.3153527">
               <folding />
             </state>
           </provider>
@@ -33,7 +36,7 @@
       <file leaf-file-name="landing.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="26" selection-start="1068" selection-end="1068" vertical-scroll-proportion="-5.28">
+            <state line="20" column="154" selection-start="660" selection-end="660" vertical-scroll-proportion="-8.32">
               <folding />
             </state>
           </provider>
@@ -42,7 +45,7 @@
       <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="4" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.0">
+            <state line="90" column="139" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,8 +64,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/landing.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/landing.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -309,21 +312,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="4" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.0">
+        <state line="90" column="139" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="26" selection-start="1068" selection-end="1068" vertical-scroll-proportion="-5.28">
+        <state line="20" column="154" selection-start="660" selection-end="660" vertical-scroll-proportion="-8.32">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="40" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.082987554">
+        <state line="79" column="164" selection-start="3418" selection-end="3418" vertical-scroll-proportion="0.3153527">
           <folding />
         </state>
       </provider>

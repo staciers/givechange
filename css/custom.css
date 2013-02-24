@@ -98,11 +98,28 @@ div.box3 {
 
 table.feed th {
     text-align: left;
+    padding-right: 50px;
 }
 
 table.feed td {
     text-align: right;
+}
 
+.map-image {
+    margin-left: 45px;
+}
+
+
+/*************** LANDING PAGE BOXES ***********/
+div.landing-box {
+    border: 1px solid #666;
+    padding-left: 10px;
+    box-shadow: 0px 1px 1px
+    rgba(0, 0, 0, .35);
+    -webkit-box-shadow: 0px 1px 1px
+    rgba(0, 0, 0, .35);
+    -moz-box-shadow: 0px 1px 1px
+    rgba(0, 0, 0, .35);
 }
 
 /************** FOOTER ****************/
@@ -158,4 +175,8 @@ a.fp-box:active {
 /************** FONTS *********************/
 h3 {
     color: #545454;
+}
+
+.red {
+    color: red;
 }
